@@ -1,0 +1,5 @@
+Jawaban Eksperimen 6:
+1. Implement all abstract methods
+2. Terjadinya error pada compile.
+3. error IllegalArgumentException.
+4. Enkapsulasi yang tidak konsisten.
