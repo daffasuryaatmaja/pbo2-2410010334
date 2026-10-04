@@ -1,0 +1,11 @@
+1. Top-level container adalah wadah utama, contoh JFrame.
+Intermediate container wadah di dalamnya, contoh JPanel.
+Atomic component komponen yang langsung digunakan pengguna, contoh JButton.
+
+2. Agar hanya satu JRadioButton yang bisa dipilih dalam satu waktu.
+
+3. JComboBox dipilih jika pilihannya banyak dan ingin menghemat tempat. JRadioButton jika pilihannya sedikit dan ingin semua pilihan terlihat.
+
+4. Karena initComponents() dibuat otomatis oleh NetBeans dan bisa tertimpa saat desain diubah. Kode tambahan ditulis di constructor atau event handler.
+
+5. Agar tema FlatLaf diterapkan sebelum form dan komponennya dibuat, sehingga seluruh komponen langsung menggunakan tema tersebut.
