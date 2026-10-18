@@ -1,0 +1,5 @@
+1. Karena komponen bisa berantakan saat ukuran jendela atau resolusi layar berubah.
+2. FlowLayout menyusun komponen berurutan dan bisa pindah baris, sedangkan GridLayout membagi komponen dalam sel berukuran sama.
+3. Weight X mengatur pembagian ruang tambahan horizontal, sedangkan Fill mengatur arah komponen mengisi ruang yang tersedia.
+4. Agar form lebih terstruktur dan tetap berada di bagian atas jendela.
+5. Konsistensi: Susunan komponen dibuat teratur. Kesesuaian komponen: Menggunakan JTextField untuk teks, JComboBox untuk pilihan program studi, dan JCheckbox untuk persetujuan tata tertib.

@@ -1,0 +1,3 @@
+1. Tombol menjadi rata tengah dan berpindah baris
+2. Terbentuk 5 baris, karena karena terdapat 9 tombol dengan 2 kolom
+3. Tombol melebar secara horizontal, tingginya tetap. Vertical strut memberi jarak antar tombol.
