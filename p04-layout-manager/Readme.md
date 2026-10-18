@@ -13,3 +13,11 @@
 
 **Saran perbaikan:** Tampilan form sudah cukup baik, tetapi ukuran kolom isian dan posisi tombol masih bisa disesuaikan agar lebih nyaman digunakan.
 Teman Pemberi Saran: M Reza Ikhsan Fadila(2410010279)
+
+## Tabel Rancangan
+
+| Bagian | Panel | Layout |
+| Jendela | JFrame | BorderLayout |
+| Header | `headerPanel` | BoxLayout, Y Axis |
+| Isi form | `formPanel` | GridBagLayout |
+| Tombol | `tombolPanel` | FlowLayout |
